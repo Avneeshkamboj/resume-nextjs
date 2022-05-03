@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+.testimonial-item span {
+  margin: -35px 15px 11px !important;
+  width: 100px !important;
+  border: 6px solid rgba(255, 255, 255, 0.12) !important;
+  border-radius: 50%;
+  display: block !important;
+}
